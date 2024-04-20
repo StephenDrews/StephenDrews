@@ -7,6 +7,12 @@
 - 🤔 Necesito ayuda con ... Profundizar en seguridad de la información y mejorar en el desarrollo de software.
 - 💬 Pregúntame sobre ... Seguridad de la información y desarrollo de software.
 - 📫 Cómo contactarme: ... [Tu información de contacto]
+### Herramientas en las que me destaco:
+
+![Python](https://img.shields.io/badge/Lenguajes-Python-DataScience)![Javascript](https://img.shields.io/badge/Lenguajes-Javascript-yellow)
+![React](https://img.shields.io/badge/Framework-React-blue)
+![Jira](https://img.shields.io/badge/Agile-Jira-green)
+
 - 😄 Pronombres: ... [Tus pronombres]
 - ⚡ Dato curioso: ... [Algo interesante sobre ti]
 <!--
