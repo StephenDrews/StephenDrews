@@ -11,6 +11,7 @@
 
 ![Python](https://img.shields.io/badge/Lenguajes-Python-DataScience)![Javascript](https://img.shields.io/badge/Lenguajes-Javascript-yellow)
 ![React](https://img.shields.io/badge/Framework-React-blue)
+![MERN](https://img.shields.io/badge/Framework-Mern-red)
 ![Jira](https://img.shields.io/badge/Agile-Jira-green)
 
 - 😄 Pronombres: ... [Tus pronombres]
