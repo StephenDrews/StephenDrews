@@ -1,5 +1,14 @@
-### Hi there 👋
+👋
+ Hola, mi Nombre es Camila Mikan! 👋
 
+- 🔭 Actualmente soy estudiante en ... Seguridad de la información y desarrollo de software.
+- 🌱 Estoy aprendiendo ... Análisis de algoritmos, exploración de librerías y desarrollo de código lógico.
+- 👯 Busco colaborar en ... Proyectos de seguridad informática y desarrollo de software.
+- 🤔 Necesito ayuda con ... Profundizar en seguridad de la información y mejorar en el desarrollo de software.
+- 💬 Pregúntame sobre ... Seguridad de la información y desarrollo de software.
+- 📫 Cómo contactarme: ... [Tu información de contacto]
+- 😄 Pronombres: ... [Tus pronombres]
+- ⚡ Dato curioso: ... [Algo interesante sobre ti]
 <!--
 **StephenDrews/StephenDrews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
