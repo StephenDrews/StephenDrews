@@ -1,4 +1,4 @@
-# <<HolaMundo>>
+# `HolaMundo`
 ## 👋 Hola, mi Nombre es Camila Mikan Analista en formacion de la informatica! 👋
 
 - 🔭 Actualmente soy estudiante en Analisis de redes sistemas de seguridad de la información y desarrollo de software.
