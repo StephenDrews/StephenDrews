@@ -1,5 +1,5 @@
 # `HolaMundo`
-## 👋 Mi nombre es `Camila Mikan` Analista en formacion en informatica! 👋
+## 👋 Mi nombre es `Camila Mikan` Analista en formacion de la Informatica! 👋
 
 - 🔭 Actualmente soy estudiante en Analisis de redes sistemas de seguridad de la información y desarrollo de software.
 - 🌱 Estoy aprendiendo ... Análisis de algoritmos, exploración de librerías y desarrollo de código lógico.
