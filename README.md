@@ -1,7 +1,7 @@
 👋
  Hola, mi Nombre es Camila Mikan! 👋
 
-- 🔭 Actualmente soy estudiante en ... Seguridad de la información y desarrollo de software.
+- 🔭 Actualmente soy estudiante en Analisis de redes sistemas de seguridad de la información y desarrollo de software.
 - 🌱 Estoy aprendiendo ... Análisis de algoritmos, exploración de librerías y desarrollo de código lógico.
 - 👯 Busco colaborar en ... Proyectos de seguridad informática y desarrollo de software.
 - 🤔 Necesito ayuda con ... Profundizar en seguridad de la información y mejorar en el desarrollo de software.
