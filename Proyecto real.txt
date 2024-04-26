@@ -1,9 +1,0 @@
-Una vez expuesto el proyecto de Back
-
-Preguntas que se debe realizar
-Que Versiones de python estan trabajando?
-Estudios
-Cuales son los comandos que se debe correr la aplicacion
-Instalar dependencias,
-Instalar bibliotecas
-Sapiencia Universidad de antioquia
