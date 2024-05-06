@@ -6,7 +6,7 @@
 - 👯 Busco colaborar en ... Proyectos de seguridad informática y desarrollo de software.
 - 🤔 Necesito ayuda con ... Profundizar en seguridad de la información y mejorar en el desarrollo de software.
 - 💬 Pregúntame sobre ... Seguridad de la información y desarrollo de software.
-- 📫 Cómo contactarme: ... [Tu información de contacto]
+- 📫 Cómo contactarme: ... [`camilitamikan@gmail.com`]
 ### Herramientas en las que me destaco:
 
 
