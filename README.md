@@ -32,8 +32,8 @@
       <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/>
       </td>
-      <tr>
-      <td>
+
+       <td>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>
       </td>
       <td>
