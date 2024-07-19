@@ -29,6 +29,9 @@
       <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="30" height="30"/>
       </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/>
+      </td>
     </tr>
     <tr>
       <td>
