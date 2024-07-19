@@ -10,8 +10,9 @@
 ### Herramientas en las que me destaco:
 
 
-![Python](https://img.shields.io/badge/Lenguajes-Python-DataScience)![Javascript](https://img.shields.io/badge/Lenguajes-Javascript-yellow)
-![React](https://img.shields.io/badge/Framework-React-blue)
+![Python](https://img.shields.io/badge/Lenguajes-Python-DataScience)
+![Javascript](https://img.shields.io/badge/Lenguajes-Javascript-yellow)
+![SpringBoot](https://img.shields.io/badge/Framework-Springboot-blue)
 ![MERN](https://img.shields.io/badge/Framework-MERN-red)
 ![MEAN](https://img.shields.io/badge/Framework-MEAN-purple)
 ![Jira](https://img.shields.io/badge/Agile-Jira-green)
