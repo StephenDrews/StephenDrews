@@ -35,8 +35,6 @@
        <td>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>
       </td>
-    </tr>
-    <tr>
       <td>
         <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/>
       </td>
