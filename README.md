@@ -1,10 +1,13 @@
 # `HolaMundo`
-## 👋 Mi nombre es `Camila Mikan` Analista en formacion de la Informatica! 👋
+## 👋 Mi nombre es `Camila Mikan` ¡Analista en formación de la Informatica! 👋
 
-- 🔭 Actualmente soy estudiante en Analisis de redes, sistemas de seguridad de la información y desarrollo de software.
-- 🌱 Estoy aprendiendo Análisis de algoritmos, exploración de librerías y desarrollo de código lógico.
-- 👯 Busco colaborar en Proyectos de seguridad informática y desarrollo de software.
-- 🤔 Necesito ayuda con Profundizar en seguridad de la información y mejorar en el desarrollo de software.
+- 🔭 Actualmente soy estudiante en Pensamiento Crítico En el área de las TIC's, enfocándome en:
+1. El Analisis de datos: ETL
+2. Ciberseguridad: Analisis de vulnerabilidades, PENTESTING,  
+3. Full Stack: Aplicacion del ciclo de vida del Desarrollo de Software como: POO, pruebas de seguridad y Seguridad integral y Finalmente actualizaciones de nuevas Tecnologias.
+- 🌱 Estoy aprendiendo, Análisis de algoritmos, exploración de librerías y desarrollo de código lógico.
+- 👯 Busco colaborar en, Proyectos de Seguridad informática y Desarrollo de software.
+- 🤔 Busco Profundizar en, Seguridad de la información y mejorar en el desarrollo de software.
 - 💬 Pregúntame sobre Seguridad de la información y desarrollo de software.
 - 📫 Cómo contactarme: [`camilitamikan@gmail.com`]
 ### Herramientas en las que me destaco:
