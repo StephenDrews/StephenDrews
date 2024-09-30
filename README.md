@@ -5,13 +5,14 @@
 1. El Analisis de datos: ETL
 2. Ciberseguridad: Analisis de vulnerabilidades, PENTESTING,  
 3. Full Stack: Aplicacion del ciclo de vida del Desarrollo de Software como: POO, pruebas de seguridad y Seguridad integral y Finalmente actualizaciones de nuevas Tecnologias.
-- 🌱 Estoy aprendiendo, Análisis de algoritmos, exploración de librerías y desarrollo de código lógico.
+- 🌱 Estoy aprendiendo, Análisis de algoritmos, Herramientas tecnológicas y lenguajes de programacion, exploración de librerías y desarrollo de código lógico.
 - 👯 Busco colaborar en, Proyectos de Seguridad informática y Desarrollo de software.
 - 🤔 Busco Profundizar en, Seguridad de la información y mejorar en el desarrollo de software.
 - 💬 Pregúntame sobre Seguridad de la información y desarrollo de software.
-- 📫 Cómo contactarme: [`camilitamikan@gmail.com`]
-### Herramientas en las que me destaco:
+- 📫 Cómo contactarme: {`camilitamikan@gmail.com`} OR [`camilamikan28@gmail.com`]
 
+
+### Herramientas en las que me destaco:
 
 ![Python](https://img.shields.io/badge/Lenguajes-Python-DataScience)
 ![Javascript](https://img.shields.io/badge/Lenguajes-Javascript-yellow)
