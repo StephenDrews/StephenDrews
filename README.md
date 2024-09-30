@@ -1,11 +1,11 @@
 # ` << Hello World >>`
 ## 👋 Mi nombre es `Camila Mikan` | <sub>¡Analista en formación de la Informatica!</sub> 👋
 
-- 🔭 Actualmente soy estudiante en  <sup>Pensamiento Crítico En el área de las TIC's, </sup> enfocándome en:
+- 🔭 Actualmente soy Estudiante en Pensamiento Crítico En el área de las TIC's, enfocándome en:
 1. El Analisis de datos: ETL
 2. Ciberseguridad: Analisis de vulnerabilidades, PENTESTING,  
 3. Full Stack: Aplicacion del ciclo de vida del Desarrollo de Software como: POO, pruebas de seguridad y Seguridad integral y Finalmente actualizaciones de nuevas Tecnologias.
-### *<Por otro lado, en el transcurso de mi procceso formativo: />*
+### *<sup>Por otro lado, en el transcurso de mi procceso formativo:</sup>*
 - 🌱 Estoy aprendiendo, Análisis de algoritmos, Herramientas tecnológicas y lenguajes de programacion, exploración de librerías y desarrollo de código lógico.
 - 👯 Busco colaborar en, Proyectos de Seguridad informática y Desarrollo de software.
 - 🤔 Busco Profundizar en, Seguridad de la información y mejorar en el desarrollo de software.
