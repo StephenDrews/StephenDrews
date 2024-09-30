@@ -1,5 +1,5 @@
-# ` << HelloWorld >>`
-## 👋 Mi nombre es `Camila Mikan` ¡Analista en formación de la Informatica! 👋
+# ` << Hello World >>`
+## 👋 Mi nombre es `Camila Mikan` <sub>¡Analista en formación de la Informatica!</sub> 👋
 
 - 🔭 Actualmente soy estudiante en Pensamiento Crítico En el área de las TIC's, enfocándome en:
 1. El Analisis de datos: ETL
