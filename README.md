@@ -1,5 +1,5 @@
 # ` << Hello World >>`
-## 👋 Mi nombre es `Camila Mikan` | <sub>¡Analista y desarrollada en formación de Tecnologia!</sub> 👋
+## 👋 Mi nombre es `Camila Mikan` | <sub>¡Analista y desarrolladora en formación de Tecnologia!</sub> 👋
 
 - 🔭 Actualmente soy Estudiante informatica en  En el área de las TIC's, enfocándome en:
 1. El Analisis de datos: ETL
@@ -9,7 +9,7 @@
 - 🌱 Estoy aprendiendo, Análisis de algoritmos, Herramientas tecnológicas y lenguajes de programacion, exploración de librerías y desarrollo de código lógico.
 - 👯 Busco colaborar en, Proyectos de Seguridad informática y Desarrollo de software.
 - 🤔 Busco Profundizar en, Seguridad de la información y mejorar en el desarrollo de software.
-- 💬 Pregúntame sobre Seguridad de la información y desarrollo de software.
+- 💬 Pregúntame sobre: Analisis de datos, Seguridad de la información y desarrollo de software.
 - 📫 Cómo contactarme: {`camilitamikan@gmail.com`} OR [`camilamikan28@gmail.com`]
 
 
