@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente soy Estudiante informatica en  En el área de las TIC's, enfocándome en:
 1. El Analisis de datos: ETL
-2. Ciberseguridad: Analisis SOC y de vulnerabilidades, PENTESTING,  
+2. Ciberseguridad: Analisis SOC y de vulnerabilidades, Pentesting y entre Otros, Entre BlueTeam y RedTeam  
 3. Full Stack: Aplicacion del ciclo de vida del Desarrollo de Software como: POO, pruebas de seguridad y Seguridad integral y Finalmente actualizaciones de nuevas Tecnologias.
 ### *<sup>Por otro lado, en el transcurso de mi procceso formativo:</sup>*
 - 🌱 Estoy aprendiendo, Análisis de algoritmos, Herramientas tecnológicas y lenguajes de programacion, exploración de librerías y desarrollo de código lógico.
