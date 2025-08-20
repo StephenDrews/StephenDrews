@@ -5,7 +5,7 @@
 1. El Analisis de datos: ETL
 2. Ciberseguridad: Analisis SOC y de vulnerabilidades, Pentesting y entre Otros, Entre BlueTeam y RedTeam  
 3. Full Stack: Aplicacion del ciclo de vida del Desarrollo de Software como: POO, pruebas de seguridad y Seguridad integral y Finalmente actualizaciones de nuevas Tecnologias.
-### *<sup>Por otro lado, en el transcurso de mi procceso formativo:</sup>*
+### *<sup>Por otro lado, en el transcurso de mi proceso formativo:</sup>*
 - 🌱 Estoy aprendiendo, Análisis de algoritmos, Herramientas tecnológicas y lenguajes de programacion, exploración de librerías y desarrollo de código lógico.
 - 👯 Busco colaborar en, Proyectos de Seguridad informática y Desarrollo de software.
 - 🤔 Busco Profundizar en, Seguridad de la información y mejorar en el desarrollo de software.
@@ -73,3 +73,8 @@
     </tr>
   </table>
 </p>
+##### Editores de Codigo en las que me destaco:
+IDE
+<div class="markdown-heading" dir="auto"><h4 class="heading-element" dir="auto"> IDE </h4><a id="user-content--ide-" class="anchor" aria-label="Permalink:  IDE " href="#-ide-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<h4 class="heading-element" dir="auto"> IDE </h4>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/75c6b15ea0c84be8971e5a21aa3f5931145e439fdf7c57b3df1ae212f6268b35/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65253230436f6c61622d2532334639413832352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c65636f6c6162266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/75c6b15ea0c84be8971e5a21aa3f5931145e439fdf7c57b3df1ae212f6268b35/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65253230436f6c61622d2532334639413832352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c65636f6c6162266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&amp;logo=googlecolab&amp;logoColor=white" style="max-width: 100%;"></a>
